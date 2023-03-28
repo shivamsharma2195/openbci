@@ -1,4 +1,6 @@
 # openbci
+use processing 4.0 for openbcigui in app
+
 openbci gui development
 
 the provided ControlPanel.pde file should be replaced with the original file to access all the serial ports in open bci gui
